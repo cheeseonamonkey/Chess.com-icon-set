@@ -21,3 +21,4 @@ These icons can be used as niche and expressive [Photomoji](https://9to5google.c
 - clean up the icons 
 - make sizes uniform
 - find higher resolution images
+- additional use cases
