@@ -1,6 +1,11 @@
-# Chess.com Analysis Icons
+# Chess.com Analysis Icons <img src="IconsOnly/svg/Blunder.svg" alt="Blunder Icon" width="80" height="80"> 
 
-Familiar & expressive analysis icons from Chess.com.
+
+Familiar & expressive analysis icons from Chess.com!
+
+
+<br>
+
 
 
 ## Files & Folders
@@ -18,7 +23,8 @@ These icons can be used as niche and expressive [Photomoji](https://9to5google.c
 
 ## Contribute
 
-- clean up the icons 
-- make sizes uniform
-- find higher resolution images
-- additional use cases
+- clean up the icons
+- png transparency 
+- make sizes uniform 
+- find higher resolution images 
+- add additional use cases
