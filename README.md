@@ -2,7 +2,7 @@
 
 Familiar & expressive analysis icons from Chess.com. Chess players around the world will recognize these!
 
-<img src="LabeledIcons/GreatMove.svg" alt="Great Move" width="200"> <img src="LabeledIcons/BookMove.svg" alt="Book Move" width="200"><br>
+<img src="LabeledIcons/GreatMove.svg" alt="Great Move" width="200"> <img src="LabeledIcons/BookMove.svg" alt="Book Move" width="200">
 <img src="LabeledIcons/Inaccuracy.svg" alt="Inaccuracy" width="200"> <img src="LabeledIcons/Blunder.svg" alt="Blunder" width="200">
 
 
