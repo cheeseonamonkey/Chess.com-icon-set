@@ -1,6 +1,6 @@
 # Chess.com Analysis Icons
 
-Icons from Chess.com:
+Familiar & expressive analysis icons from Chess.com.
 
 
 ## Files & Folders
