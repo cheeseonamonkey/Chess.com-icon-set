@@ -1,7 +1,9 @@
 # Chess.com Analysis Icons <img src="IconsOnly/svg/Blunder.svg" alt="Blunder Icon" width="80" height="80"> 
 
+Familiar & expressive analysis icons from Chess.com. Chess players around the world will recognize these!
 
-Familiar & expressive analysis icons from Chess.com! Chess players around the globe will recognize these.
+![image](https://github.com/user-attachments/assets/7a11d835-a04c-4310-9a28-4e579c0e82c0)
+
 
 
 <br>
